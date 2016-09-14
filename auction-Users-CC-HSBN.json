@@ -1,0 +1,9 @@
+{
+             "Chaincode_Path":"github.com/auction/",
+			 "Certificate_Path": "/root/",
+			 "Admin_Name": "WebAppAdmin",
+			 "Admin_Secret": "366af6f989",
+			 "User1_Name": "user_type1_240141c9a8",
+			 "User1_Secret": "a9dff79741"
+								 
+ }
